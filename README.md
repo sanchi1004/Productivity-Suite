@@ -10,8 +10,7 @@ This is a comprehensive web-based productivity tool that integrates a **Pomodoro
 
 ## Live Demo
 
-Experience the application live at: [[https://sanchi1004.github.io/Mini-Project/](https://sanchi1004.github.io/Productivity-Suite/)](https://sanchi1004.github.io/Productivity-Suite/))
-
+Experience the application live at: [https://sanchi1004.github.io/Mini-Project/](https://sanchi1004.github.io/Productivity-Suite/)
 ## Technologies Used
 
 - **HTML5**: Structure of the application.
