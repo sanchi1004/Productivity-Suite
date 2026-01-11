@@ -1,6 +1,4 @@
-# Mini-Project
-Mini Project for Web Programming 
-# Productivity Web Application
+# Productivity Suite
 
 This is a comprehensive web-based productivity tool that integrates a **Pomodoro Timer**, a **To-Do List**, and a **Notes** section to help users manage their tasks efficiently.
 
@@ -12,7 +10,7 @@ This is a comprehensive web-based productivity tool that integrates a **Pomodoro
 
 ## Live Demo
 
-Experience the application live at: [https://sanchi1004.github.io/Mini-Project/](https://sanchi1004.github.io/Mini-Project/)
+Experience the application live at: [[https://sanchi1004.github.io/Mini-Project/](https://sanchi1004.github.io/Productivity-Suite/)](https://sanchi1004.github.io/Productivity-Suite/))
 
 ## Technologies Used
 
